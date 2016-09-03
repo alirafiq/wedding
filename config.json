@@ -1,0 +1,22 @@
+{
+	"development":{
+	"server":"localhost",
+	"port":"1400",
+	"db_server":"localhost",
+	"db_port":"27017",
+	"db":"test_tution",
+	"db_user":"",
+	"db_pass":""
+	},
+	"production":{
+	"server":"talal.com",
+	"port":"80",
+	"db_server":"198.0.0.1",
+	"db_port":"27017",
+	"db":"tution",
+	"db_user":"test",
+	"db_pass":"aaa"
+	}
+
+
+}
